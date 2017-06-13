@@ -13,14 +13,16 @@ namespace gitSampleConsole
             Console.WriteLine(" first compile of console");
         }
 
-       private int testAdd(int a, int b)
+       public int testAdd(int a, int b)
         {
 
            return a+b;
         }
-       private int testSub(int a, int b)
+       public int testSub(int a, int b)
        {
            return b - a;
        }
+
+     
     }
 }
