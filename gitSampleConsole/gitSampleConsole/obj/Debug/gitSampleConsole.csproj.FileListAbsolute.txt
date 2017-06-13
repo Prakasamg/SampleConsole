@@ -1,1 +1,6 @@
 D:\GitRepo\SampleConsole\gitSampleConsole\gitSampleConsole\bin\Debug\gitSampleConsole.exe.config
+D:\GitRepo\SampleConsole\gitSampleConsole\gitSampleConsole\bin\Debug\gitSampleConsole.exe
+D:\GitRepo\SampleConsole\gitSampleConsole\gitSampleConsole\bin\Debug\gitSampleConsole.pdb
+D:\GitRepo\SampleConsole\gitSampleConsole\gitSampleConsole\obj\Debug\gitSampleConsole.csprojResolveAssemblyReference.cache
+D:\GitRepo\SampleConsole\gitSampleConsole\gitSampleConsole\obj\Debug\gitSampleConsole.exe
+D:\GitRepo\SampleConsole\gitSampleConsole\gitSampleConsole\obj\Debug\gitSampleConsole.pdb
